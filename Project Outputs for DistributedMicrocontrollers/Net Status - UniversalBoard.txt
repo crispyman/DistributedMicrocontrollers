@@ -1,0 +1,20 @@
+Net Status Report
+Filename     : C:\Users\SVT\Documents\AltiumProjects\DistributedMicrocontrollers\UniversalBoard.PcbDoc
+Date         : 4/10/2019
+Time         : 11:10:23 AM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    12V, Signal Layers Only, 20.9545mm
+    3V, Signal Layers Only, 0mm
+    5V, Signal Layers Only, 32.5754mm
+    CAN_HIGH, Signal Layers Only, 41.2949mm
+    CAN_LOW, Signal Layers Only, 61.7387mm
+    CAN_RX, Signal Layers Only, 13.2604mm
+    CAN_TX, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 61.5788mm
+    NetH0_1, Signal Layers Only, 8.9595mm
+    NetL0_1, Signal Layers Only, 14.1681mm
+    NetR0_1, Signal Layers Only, 10.139mm
+    NetR2_2, Signal Layers Only, 21.9075mm
+count : 12

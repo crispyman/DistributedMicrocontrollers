@@ -1,0 +1,16 @@
+Added Component: Designator=J0(1542761)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70170366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/phoenixcontact-1542761/70170366/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/PDF/Data%20Sheets/Phoenix%20Contact%20PDFs/1542761.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1542761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1542761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1542761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8025583"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8025583"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=J0-2
+Added Pin To Net: NetName=GND Pin=J0-3
+Added Pin To Net: NetName=CAN_HIGH Pin=J0-4
+Added Pin To Net: NetName=CAN_LOW Pin=J0-5

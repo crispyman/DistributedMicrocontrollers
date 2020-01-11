@@ -1,0 +1,7 @@
+WARNING - Model 'CANH_BI': Vmeas, Vref and Rref timing test load parameters should be specified
+WARNING - Model 'CANL_BI': Vmeas, Vref and Rref timing test load parameters should be specified
+
+Errors  : 0
+Warnings: 2
+
+File Passed

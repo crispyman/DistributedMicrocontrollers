@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DistributedMicrocontrollersCopy.PrjPcb]
+   Generated File[UniversalBoard.TXT]
+   Generated File[UniversalBoard.LDP]
+   Generated File[UniversalBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:27:27 PM On 6/10/2019

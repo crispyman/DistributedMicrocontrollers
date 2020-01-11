@@ -1,0 +1,93 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\SVT\Documents\AltiumProjects\DistributedMicrocontrollers\UniversalBoard.PcbDoc
+Date     : 6/10/2019
+Time     : 5:11:45 PM
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('No Net')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('No Net')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.5mm) (Preferred=0.5mm) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.5mm) (Preferred=0.5mm) (InNet('+5'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.5mm) (Preferred=0.5mm) (InNet('+12'))
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) ((InNet('+5') OR InNet('+12') OR InNet('GND')))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.75mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad J1-1(139.02mm,84.81mm) on Multi-Layer And Via (139.02mm,84.81mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad J1-2(139.02mm,88.346mm) on Multi-Layer And Via (139.02mm,88.346mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad J1-3(135.484mm,88.346mm) on Multi-Layer And Via (135.484mm,88.346mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad J1-4(135.484mm,84.81mm) on Multi-Layer And Via (135.484mm,84.81mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad J1-5(137.252mm,86.578mm) on Multi-Layer And Via (137.252mm,86.578mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+Rule Violations :5
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.2mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room DAC_PWW_Outputs (Bounding Region = (84.9mm, 66.6mm, 156.094mm, 79.93mm) (InComponentClass('DAC_PWW_Outputs'))
+Rule Violations :0
+
+Processing Rule : Room output_header (Bounding Region = (159.35mm, 28.71mm, 177.38mm, 95.66mm) (InComponentClass('output_header'))
+Rule Violations :0
+
+Processing Rule : Room 5vOutputs (Bounding Region = (130.32mm, 44.9mm, 152.65mm, 66.59mm) (InComponentClass('5vOutputs'))
+Rule Violations :0
+
+Processing Rule : Room Power_CAN (Bounding Region = (107.64mm, 82.63mm, 176.18mm, 125.85mm) (InComponentClass('Power_CAN'))
+Rule Violations :0
+
+Processing Rule : Room Analog_inputs (Bounding Region = (32.82mm, 41.01mm, 78.15mm, 49.38mm) (InComponentClass('Analog_inputs'))
+Rule Violations :0
+
+Processing Rule : Room 12vOutputs (Bounding Region = (88.18mm, 25.72mm, 158.82mm, 43.977mm) (InComponentClass('12vOutputs'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Net Antennae (Tolerance=0mm) (All)
+   Waived Violation between Net Antennae: Via (88.97mm,65.16mm) from Top Layer to Bottom Layer Waived by Andrew Pobrica at 6/10/2019 5:11:28 PMIs a Test Point on power rail
+Waived Violations :1
+
+
+Violations Detected : 5
+Waived Violations : 1
+Time Elapsed        : 00:00:00

@@ -1,0 +1,4 @@
+Analog_Out_power=PA4,PA5
+Analog_Out_signal=PA4,PA5
+PWM_Out_power=PA8,PB1
+PWM_Out_signal=PA8,PB1

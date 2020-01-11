@@ -1,0 +1,27 @@
+Added Component: Designator=D?(Fairchild_FFB20UP20STM_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/28600f283f67c39f/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.fairchildsemi.com/datasheets/FF/FFB20UP20S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "DIODE GEN PURP 200V 20A D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "FFB20UP20STMCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/28600f283f67c39f/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-FFB20UP20STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DPAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FFB20UP20STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.972792787586"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FFB20UP20STMCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "512-FFB20UP20STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-65°C to +175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-65°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=+12 Pin=D?-4
+Added Member To Class: ClassName=Power_CAN Member=Component D? Diode_Fairchild_FFB20UP20STM_eec

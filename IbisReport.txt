@@ -1,0 +1,14 @@
+Matching IBIS pin : 6 with model : CANL_BI_tp_out.mac.
+
+Matching IBIS pin : 6 with model : CANL_BI_tp_in.mac.
+
+Matching IBIS pin : 7 with model : CANH_BI_tp_out.mac.
+
+Matching IBIS pin : 7 with model : CANH_BI_tp_in.mac.
+
+Matching IBIS pin : 4 with model : RECEIVER_OUT_tp_out.mac.
+
+Matching IBIS pin : 1 with model : DRIVER_IN_tp_in.mac.
+
+
+Any unmatched IBIS pins should have their model/technology set manually.

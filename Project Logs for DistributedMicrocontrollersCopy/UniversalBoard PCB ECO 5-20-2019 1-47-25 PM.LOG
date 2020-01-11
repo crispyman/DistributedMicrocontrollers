@@ -1,0 +1,265 @@
+Removed Pin From Net: NetName=+3 Pin=P1-5
+Removed Pin From Net: NetName=NetR0_1 Pin=R0-1
+Removed Pin From Net: NetName=GND Pin=R0-2
+Removed Pin From Net: NetName=NetP2_57 Pin=R12-1
+Removed Pin From Net: NetName=NetP2_21 Pin=R14-1
+Removed Pin From Net: NetName=NetP2_55 Pin=R16-1
+Removed Pin From Net: NetName=NetP2_20 Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Change Component Designator: OldDesignator=C0 NewDesignator=C16
+Change Component Designator: OldDesignator=C1 NewDesignator=C18
+Change Component Designator: OldDesignator=H0 NewDesignator=H1
+Change Component Designator: OldDesignator=J0 NewDesignator=J1
+Change Component Designator: OldDesignator=L0 NewDesignator=L1
+Change Component Designator: OldDesignator=P0 NewDesignator=P1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=R1 NewDesignator=R9
+Change Component Designator: OldDesignator=R2 NewDesignator=R11
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=U0 NewDesignator=U12
+Change Component Designator: OldDesignator=U1 NewDesignator=U13
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Change Component Designator: OldDesignator=U10 NewDesignator=U9
+Change Component Designator: OldDesignator=U11 NewDesignator=U10
+Change Component Designator: OldDesignator=U12 NewDesignator=U11
+Added Component: Designator=C1(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C17(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C19(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C20(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(RESC3216X70X50NL05T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEYJ103V"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC3216X70X50ML20T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB912V"; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOT-89-MB3_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revD, Jun-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Lead Plastic Small Outline Transistor Header (MB) [SOT-89]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-89-MB3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+12 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+12 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+12 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+12 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+5 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+5 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=+3 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+5 Pin=C20-2
+Added Pin To Net: NetName=NetR0_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetP0_10 Pin=R13-1
+Added Pin To Net: NetName=NetP0_9 Pin=R15-1
+Added Pin To Net: NetName=NetP0_8 Pin=R17-1
+Added Pin To Net: NetName=NetP0_7 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=U14-1
+Added Pin To Net: NetName=+5 Pin=U14-2
+Added Pin To Net: NetName=+5 Pin=U14-2
+Added Pin To Net: NetName=+3 Pin=U14-3
+Change Net Name : Old Net Name=NetH0_1 New Net Name=NetH1_1
+Change Net Name : Old Net Name=NetL0_1 New Net Name=NetL1_1
+Change Net Name : Old Net Name=NetP0_7 New Net Name=NetP1_7
+Change Net Name : Old Net Name=NetP0_8 New Net Name=NetP1_8
+Change Net Name : Old Net Name=NetP0_9 New Net Name=NetP1_9
+Change Net Name : Old Net Name=NetP0_10 New Net Name=NetP1_10
+Change Net Name : Old Net Name=NetP0_11 New Net Name=NetP1_11
+Change Net Name : Old Net Name=NetP0_12 New Net Name=NetP1_12
+Change Net Name : Old Net Name=NetP0_15 New Net Name=NetP1_15
+Change Net Name : Old Net Name=NetP0_16 New Net Name=NetP1_16
+Change Net Name : Old Net Name=NetP0_19 New Net Name=NetP1_19
+Change Net Name : Old Net Name=NetP0_20 New Net Name=NetP1_20
+Change Net Name : Old Net Name=NetP0_22 New Net Name=NetP1_22
+Change Net Name : Old Net Name=NetP0_25 New Net Name=NetP1_25
+Change Net Name : Old Net Name=NetP0_26 New Net Name=NetP1_26
+Change Net Name : Old Net Name=NetP0_27 New Net Name=NetP1_27
+Change Net Name : Old Net Name=NetP0_28 New Net Name=NetP1_28
+Change Net Name : Old Net Name=NetP0_29 New Net Name=NetP1_29
+Change Net Name : Old Net Name=NetP0_30 New Net Name=NetP1_30
+Change Net Name : Old Net Name=NetP0_31 New Net Name=NetP1_31
+Change Net Name : Old Net Name=NetP0_32 New Net Name=NetP1_32
+Change Net Name : Old Net Name=NetP0_34 New Net Name=NetP1_34
+Change Net Name : Old Net Name=NetP0_41 New Net Name=NetP1_41
+Change Net Name : Old Net Name=NetP0_42 New Net Name=NetP1_42
+Change Net Name : Old Net Name=NetP1_9 New Net Name=NetP2_9
+Change Net Name : Old Net Name=NetP1_10 New Net Name=NetP2_10
+Change Net Name : Old Net Name=NetP1_11 New Net Name=NetP2_11
+Change Net Name : Old Net Name=NetP1_12 New Net Name=NetP2_12
+Change Net Name : Old Net Name=NetP1_13 New Net Name=NetP2_13
+Change Net Name : Old Net Name=NetP1_14 New Net Name=NetP2_14
+Change Net Name : Old Net Name=NetP1_15 New Net Name=NetP2_15
+Change Net Name : Old Net Name=NetP1_16 New Net Name=NetP2_16
+Change Net Name : Old Net Name=NetP1_17 New Net Name=NetP2_17
+Change Net Name : Old Net Name=NetP1_18 New Net Name=NetP2_18
+Change Net Name : Old Net Name=NetP1_28 New Net Name=NetP2_28
+Change Net Name : Old Net Name=NetP1_36 New Net Name=NetP2_36
+Change Net Name : Old Net Name=NetP1_37 New Net Name=NetP2_37
+Change Net Name : Old Net Name=NetP1_38 New Net Name=NetP2_38
+Change Net Name : Old Net Name=NetP1_44 New Net Name=NetP2_44
+Change Net Name : Old Net Name=NetP1_45 New Net Name=NetP2_45
+Change Net Name : Old Net Name=NetP1_46 New Net Name=NetP2_46
+Change Net Name : Old Net Name=NetP1_47 New Net Name=NetP2_47
+Change Net Name : Old Net Name=NetP1_48 New Net Name=NetP2_48
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetP3_3
+Change Net Name : Old Net Name=NetP2_4 New Net Name=NetP3_4
+Change Net Name : Old Net Name=NetP2_5 New Net Name=NetP3_5
+Change Net Name : Old Net Name=NetP2_6 New Net Name=NetP3_6
+Change Net Name : Old Net Name=NetP2_16 New Net Name=NetP3_16
+Change Net Name : Old Net Name=NetP2_17 New Net Name=NetP3_17
+Change Net Name : Old Net Name=NetP2_18 New Net Name=NetP3_18
+Change Net Name : Old Net Name=NetP2_20 New Net Name=NetP3_20
+Change Net Name : Old Net Name=NetP2_21 New Net Name=NetP3_21
+Change Net Name : Old Net Name=NetP2_26 New Net Name=NetP3_26
+Change Net Name : Old Net Name=NetP2_36 New Net Name=NetP3_36
+Change Net Name : Old Net Name=NetP2_37 New Net Name=NetP3_37
+Change Net Name : Old Net Name=NetP2_38 New Net Name=NetP3_38
+Change Net Name : Old Net Name=NetP2_39 New Net Name=NetP3_39
+Change Net Name : Old Net Name=NetP2_40 New Net Name=NetP3_40
+Change Net Name : Old Net Name=NetP2_50 New Net Name=NetP3_50
+Change Net Name : Old Net Name=NetP2_51 New Net Name=NetP3_51
+Change Net Name : Old Net Name=NetP2_52 New Net Name=NetP3_52
+Change Net Name : Old Net Name=NetP2_53 New Net Name=NetP3_53
+Change Net Name : Old Net Name=NetP2_55 New Net Name=NetP3_55
+Change Net Name : Old Net Name=NetP2_57 New Net Name=NetP3_57
+Change Net Name : Old Net Name=NetP2_61 New Net Name=NetP3_61
+Change Net Name : Old Net Name=NetR0_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR8_1
+Added Member To Class: ClassName=12vOutputs Member=Component C1 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C2 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C3 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C4 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C5 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C6 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C7 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C8 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C9 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C10 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C11 C0603C104K5RACTU
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component C12 C0603C104K5RACTU
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component C13 C0603C104K5RACTU
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component C14 C0603C104K5RACTU
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component C15 C0603C104K5RACTU
+Added Member To Class: ClassName=Power_CAN Member=Component C16 CAP 22uF 16V X7R 1210(3225)
+Added Member To Class: ClassName=Power_CAN Member=Component C17 C0603C104K5RACTU
+Added Member To Class: ClassName=Power_CAN Member=Component C18 CAP 22uF 16V X7R 1210(3225)
+Added Member To Class: ClassName=Power_CAN Member=Component C19 C0805C105K4RACTU
+Added Member To Class: ClassName=Power_CAN Member=Component C20 C0805C105K4RACTU
+Added Member To Class: ClassName=Power_CAN Member=Component H1 Header 0
+Added Member To Class: ClassName=Power_CAN Member=Component J1 1542761
+Added Member To Class: ClassName=Power_CAN Member=Component L1 SRN3015-2R2M
+Added Member To Class: ClassName=output_header Member=Component P3 2-5174225-5
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R1 CRCW1206523RFKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R2 CRCW12061K00FKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R3 CRCW12061K00FKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R4 CRCW1206523RFKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R5 CRCW1206523RFKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R6 CRCW12061K00FKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R7 CRCW12061K00FKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R8 CRCW1206523RFKEA
+Added Member To Class: ClassName=Power_CAN Member=Component R9 ERJ-14YJ121U
+Added Member To Class: ClassName=Power_CAN Member=Component R10 ERJ-8GEYJ103V
+Added Member To Class: ClassName=Power_CAN Member=Component R11 100K 5% 2010(5025)
+Added Member To Class: ClassName=Analog_inputs Member=Component R19 ERA8AEB912V
+Added Member To Class: ClassName=12vOutputs Member=Component U1 BTS4160DGA
+Added Member To Class: ClassName=12vOutputs Member=Component U2 BTS4160DGA
+Added Member To Class: ClassName=12vOutputs Member=Component U3 BTS4160DGA
+Added Member To Class: ClassName=12vOutputs Member=Component U4 BTS4160DGA
+Added Member To Class: ClassName=12vOutputs Member=Component U5 BTS4160DGA
+Added Member To Class: ClassName=5vOutputs Member=Component U6 TXB0104PWR
+Added Member To Class: ClassName=5vOutputs Member=Component U7 TXB0104PWR
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component U8 MCP6001T-I/OT
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component U9 MCP6001T-I/OT
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component U10 MCP6001T-I/OT
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component U11 MCP6001T-I/OT
+Added Member To Class: ClassName=Power_CAN Member=Component U12 SN65HVD230D
+Added Member To Class: ClassName=Power_CAN Member=Component U13 TPS62173DSGR
+Added Member To Class: ClassName=Power_CAN Member=Component U14 MCP1702T-3302E/MB

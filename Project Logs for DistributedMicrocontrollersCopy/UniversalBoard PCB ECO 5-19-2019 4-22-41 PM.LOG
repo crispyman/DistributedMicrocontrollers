@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=U10 Old DesignItemId=CMP-0187-00462-2 New DesignItemId=
+Change Component DesignItemId : Designator=U11 Old DesignItemId=CMP-0187-00462-2 New DesignItemId=
+Change Component Footprint: Designator=U9 Old Footprint=SOT-23-OT5_N New Footprint=SOT-23-OT5_N
+Change Component Footprint: Designator=U12 Old Footprint=SOT-23-OT5_N New Footprint=SOT-23-OT5_N
+Change Component Library : Designator=U9 Old Library=Altium Content Vault New Library=Components - 19.05.19 - 16.13.SchLib
+Change Component Library : Designator=U10 Old Library=Altium Content Vault New Library=Components - 19.05.19 - 16.13.SchLib
+Change Component Library : Designator=U11 Old Library=Altium Content Vault New Library=Components - 19.05.19 - 16.13.SchLib
+Change Component Library : Designator=U12 Old Library=Altium Content Vault New Library=Components - 19.05.19 - 16.13.SchLib

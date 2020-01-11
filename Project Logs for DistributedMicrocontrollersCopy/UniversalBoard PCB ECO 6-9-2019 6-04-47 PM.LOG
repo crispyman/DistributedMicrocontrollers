@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetP3_26 Pin=R1-1
+Removed Pin From Net: NetName=NetP3_61 Pin=R4-1
+Removed Pin From Net: NetName=NetP3_26 Pin=U8-1
+Removed Pin From Net: NetName=NetP3_61 Pin=U9-1
+Change Component Designator: OldDesignator=C28 NewDesignator=28
+Added Pin To Net: NetName=NetP3_26 Pin=R5-1
+Added Pin To Net: NetName=NetP3_61 Pin=R8-1
+Added Pin To Net: NetName=NetP3_26 Pin=U10-1
+Added Pin To Net: NetName=NetP3_61 Pin=U11-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U8-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U9-1
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component 28 C0603C104K5RACTU

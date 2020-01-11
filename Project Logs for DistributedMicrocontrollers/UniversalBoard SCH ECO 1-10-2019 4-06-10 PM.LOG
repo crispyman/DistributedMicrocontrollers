@@ -1,0 +1,3 @@
+Add Pin To Net: Pin=P0-1 Old Net=NetP0_1 New Net=GND
+Add Pin To Net: Pin=P0-3 Old Net=NetP0_3 New Net=5V
+Add Pin To Net: Pin=P0-5 Old Net=NetP0_5 New Net=3V

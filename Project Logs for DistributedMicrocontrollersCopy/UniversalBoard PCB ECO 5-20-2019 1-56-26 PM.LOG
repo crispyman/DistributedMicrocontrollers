@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=12vOutputs Member=C18
+Removed Member From Class: ClassName=Power_CAN Member=R5
+Removed Member From Class: ClassName=Power_CAN Member=R7
+Removed Member From Class: ClassName=DAC_PWW_Outputs Member=R13
+Removed Member From Class: ClassName=Power_CAN Member=R13
+Removed Member From Class: ClassName=5vOutputs Member=U4
+Removed Member From Class: ClassName=DAC_PWW_Outputs Member=U7
+Removed Member From Class: ClassName=Power_CAN Member=U11
+Removed Member From Class: ClassName=12vOutputs Member=U13
+Added Member To Class: ClassName=12vOutputs Member=Component C1 C0603C104K5RACTU
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R1 CRCW1206523RFKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R3 CRCW12061K00FKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R6 CRCW12061K00FKEA
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component R8 CRCW1206523RFKEA
+Added Member To Class: ClassName=Power_CAN Member=Component R9 ERJ-14YJ121U
+Added Member To Class: ClassName=Power_CAN Member=Component R10 ERJ-8GEYJ103V
+Added Member To Class: ClassName=Power_CAN Member=Component R11 100K 5% 2010(5025)
+Added Member To Class: ClassName=Analog_inputs Member=Component R12 CRCW12064K70FKEA
+Added Member To Class: ClassName=Analog_inputs Member=Component R14 CRCW12064K70FKEA
+Added Member To Class: ClassName=Analog_inputs Member=Component R15 ERA8AEB912V
+Added Member To Class: ClassName=Analog_inputs Member=Component R17 ERA8AEB912V
+Added Member To Class: ClassName=Analog_inputs Member=Component R18 CRCW12064K70FKEA
+Added Member To Class: ClassName=12vOutputs Member=Component U1 BTS4160DGA
+Added Member To Class: ClassName=12vOutputs Member=Component U2 BTS4160DGA
+Added Member To Class: ClassName=12vOutputs Member=Component U5 BTS4160DGA
+Added Member To Class: ClassName=5vOutputs Member=Component U7 TXB0104PWR
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component U8 MCP6001T-I/OT
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component U10 MCP6001T-I/OT
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component U11 MCP6001T-I/OT
+Added Member To Class: ClassName=Power_CAN Member=Component U12 SN65HVD230D

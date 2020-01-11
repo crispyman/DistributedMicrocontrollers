@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=U7 Old DesignItemId=CMP-2000-07335-1 New DesignItemId=
+Change Component DesignItemId : Designator=U8 Old DesignItemId=CMP-2000-07335-1 New DesignItemId=
+Change Component Footprint: Designator=U7 Old Footprint=PW0014A_L New Footprint=PW0014A_Custom
+Change Component Footprint: Designator=U8 Old Footprint=PW0014A_L New Footprint=PW0014A_Custom
+Change Component Library : Designator=U7 Old Library=Altium Content Vault New Library=Components - 19.05.19 - 16.35.SchLib
+Change Component Library : Designator=U8 Old Library=Altium Content Vault New Library=Components - 19.05.19 - 16.35.SchLib

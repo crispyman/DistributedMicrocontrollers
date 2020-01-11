@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-3
+Removed Pin From Net: NetName=+12 Pin=D1-4
+Change Component Footprint: Designator=D1 Old Footprint=Fairchild_FFB20UP20STM_0 New Footprint=Diodes_SMA_0
+Change Component Comment : Designator=D1 Old Comment=Diode_Fairchild_FFB20UP20STM_eec New Comment=S1J-13-F
+Change component parameters: Designator = "D1"; Footprint = "Diodes_SMA_0"; UniqueID = "\SHHEFGEW"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2

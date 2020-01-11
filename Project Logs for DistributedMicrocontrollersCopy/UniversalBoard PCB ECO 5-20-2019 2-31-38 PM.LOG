@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=5vOutputs Member=C4
+Removed Member From Class: ClassName=5vOutputs Member=C5
+Removed Member From Class: ClassName=5vOutputs Member=C7
+Removed Member From Class: ClassName=5vOutputs Member=C8
+Removed Member From Class: ClassName=Power_CAN Member=C15
+Removed Member From Class: ClassName=Power_CAN Member=C18
+Removed Member From Class: ClassName=Power_CAN Member=C19
+Removed Member From Class: ClassName=12vOutputs Member=C24
+Removed Member From Class: ClassName=12vOutputs Member=C27
+Removed Member From Class: ClassName=12vOutputs Member=C28
+Removed Member From Class: ClassName=12vOutputs Member=C32
+Removed Member From Class: ClassName=12vOutputs Member=C35
+Added Member To Class: ClassName=12vOutputs Member=Component C2 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C3 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C4 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C9 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C10 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C12 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C13 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C14 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C17 C0603C104K5RACTU
+Added Member To Class: ClassName=12vOutputs Member=Component C20 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C21 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C23 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C25 C0603C104K5RACTU
+Added Member To Class: ClassName=5vOutputs Member=Component C26 C0603C104K5RACTU
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component C29 C0603C104K5RACTU
+Added Member To Class: ClassName=Power_CAN Member=Component C31 CAP 22uF 16V X7R 1210(3225)
+Added Member To Class: ClassName=Power_CAN Member=Component C33 CAP 22uF 16V X7R 1210(3225)
+Added Member To Class: ClassName=Power_CAN Member=Component C34 C0805C105K4RACTU

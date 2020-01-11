@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=P2-18
+Removed Pin From Net: NetName=NetP2_16 Pin=P2-19
+Removed Pin From Net: NetName=NetP2_17 Pin=P2-21
+Removed Pin From Net: NetName=NetP2_22 Pin=P2-22
+Removed Pin From Net: NetName=GND Pin=U8-12
+Added Pin To Net: NetName=GND Pin=P2-19
+Added Pin To Net: NetName=NetP2_22 Pin=P2-21
+Added Pin To Net: NetName=GND Pin=P2-22
+Change Net Name : Old Net Name=NetP2_22 New Net Name=NetP2_21
+Added Pin To Net: NetName=NetP2_18 Pin=P2-18
+Added Pin To Net: NetName=NetP2_18 Pin=U8-12
+Added Net: Name=NetP2_18
+Added Member To Class: ClassName=Power_CAN Member=Component J0 1542761
+Added Member To Class: ClassName=Analog_inputs Member=Component R11 CRCW12064K70FKEA
+Added Member To Class: ClassName=Analog_inputs Member=Component R12 ERA8AEB912V
+Added Member To Class: ClassName=Analog_inputs Member=Component R13 CRCW12064K70FKEA
+Added Member To Class: ClassName=Analog_inputs Member=Component R14 ERA8AEB912V
+Added Member To Class: ClassName=Analog_inputs Member=Component R15 CRCW12064K70FKEA
+Added Member To Class: ClassName=Analog_inputs Member=Component R16 ERA8AEB912V
+Added Member To Class: ClassName=Analog_inputs Member=Component R17 CRCW12064K70FKEA
+Added Member To Class: ClassName=Analog_inputs Member=Component R18 ERA8AEB912V

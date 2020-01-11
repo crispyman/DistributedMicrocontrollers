@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+5 Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=+5 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=+5 Pin=U8-2
+Removed Pin From Net: NetName=GND Pin=U8-5
+Removed Pin From Net: NetName=+5 Pin=U9-2
+Removed Pin From Net: NetName=GND Pin=U9-5
+Removed Pin From Net: NetName=+5 Pin=U10-2
+Removed Pin From Net: NetName=GND Pin=U10-5
+Removed Pin From Net: NetName=+5 Pin=U11-2
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Member From Class: ClassName=DAC_PWW_Outputs Member=C28
+Added Component: Designator=28(Kemet_C0805_IPC_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=28-1
+Added Pin To Net: NetName=GND Pin=28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+5 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=+5 Pin=U8-5
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=+5 Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=+5 Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=+5 Pin=U11-5
+Added Member To Class: ClassName=DAC_PWW_Outputs Member=Component 28 C0603C104K5RACTU

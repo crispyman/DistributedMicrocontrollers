@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: [Revision 7] UniversalBoard.PcbDoc   6/4/2019  2:05:47 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : [Revision 7] UniversalBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             88        PTH        0.00inch (0.00mm)
+T3      33mil (0.85mm)                                            Round             68        PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      41mil (1.04mm)                                            Round             100       PTH        0.00inch (0.00mm)
+T6      47mil (1.2mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T7      108mil (2.75mm)                                           Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              267
+
+Total Processing Time (hh:mm:ss) : 00:00:00

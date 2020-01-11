@@ -1,0 +1,3 @@
+Remove Pin=P0-1 From Net=GND
+Remove Pin=P0-3 From Net=5V
+Remove Pin=P0-5 From Net=3V

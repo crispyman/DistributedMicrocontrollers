@@ -1,0 +1,2 @@
+Analog_In_Power=PC3,PC2,PC1,PC0
+Analog_In_Signal=PC0,PC1,PC2,PC3

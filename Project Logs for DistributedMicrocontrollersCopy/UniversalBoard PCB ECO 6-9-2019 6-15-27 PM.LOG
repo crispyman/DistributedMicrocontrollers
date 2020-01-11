@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+3 Pin=P3-28
+Removed Pin From Net: NetName=GND Pin=P3-62
+Removed Pin From Net: NetName=NetP3_26 Pin=R1-1
+Removed Pin From Net: NetName=NetP3_61 Pin=R4-1
+Removed Pin From Net: NetName=NetP3_26 Pin=U8-1
+Removed Pin From Net: NetName=NetP3_61 Pin=U9-1
+Change Component Designator: OldDesignator=C28 NewDesignator=28
+Added Pin To Net: NetName=NetP3_26 Pin=R5-1
+Added Pin To Net: NetName=NetP3_61 Pin=R8-1
+Added Pin To Net: NetName=NetP3_26 Pin=U10-1
+Added Pin To Net: NetName=NetP3_61 Pin=U11-1
+Added Pin To Net: NetName=NetP3_28 Pin=P3-28
+Added Pin To Net: NetName=NetP3_28 Pin=R4-1
+Added Pin To Net: NetName=NetP3_28 Pin=U9-1
+Added Net: Name=NetP3_28
+Added Pin To Net: NetName=NetP3_62 Pin=P3-62
+Added Pin To Net: NetName=NetP3_62 Pin=R1-1
+Added Pin To Net: NetName=NetP3_62 Pin=U8-1
+Added Net: Name=NetP3_62
